@@ -1,0 +1,8 @@
+Ram, 85
+Bob, 89
+Charlie, 78
+Sami,100
+Ram, 100
+Sita, 100
+Eve, 88
+Kok,99
